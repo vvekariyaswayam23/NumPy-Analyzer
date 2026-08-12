@@ -4,7 +4,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Library-orange?style=for-the-badge\&logo=numpy)
 ![GitHub](https://img.shields.io/badge/GitHub-Project-black?style=for-the-badge\&logo=github)
 
-> **NumPy Analyzer** is a beginner-friendly Python console project that helps users create arrays and perform various NumPy operations such as mathematical calculations, searching, sorting, filtering, splitting, combining, and statistical analysis.
+> **NumPy Analyzer** is a beginner-friendly Python console project that
+
+>   helps users create arrays and perform various NumPy operations such as
+
+>   mathematical calculations, searching, sorting, filtering, splitting, combining,
+
+>   and statistical analysis.
 
 ---
 
