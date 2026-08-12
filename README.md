@@ -63,27 +63,68 @@
 ## 📸 Screenshots
 
 ### 🏠 Main Menu
-![Main Menu](https://github.com/your-username/your-repo-name/blob/main/screenshots/main-menu.png)
+
+<img width="1035" height="239" alt="Screenshot 2026-08-12 184532" src="https://github.com/user-attachments/assets/cbc64625-9007-4c05-90d7-9aabfab2461f" />
+
+
+
+
+
 
 ### 1️⃣ Create a NumPy Array
-![Create Array](https://github.com/your-username/your-repo-name/blob/main/screenshots/create-array.png)
+
+<img width="1035" height="639" alt="Screenshot 2026-08-12 181932" src="https://github.com/user-attachments/assets/67157850-93d8-4993-ae21-fc48245eb437" />
+
+
+
+
+
 
 ### 2️⃣ Perform Mathematical Operation
-![Mathematical Operation](https://github.com/your-username/your-repo-name/blob/main/screenshots/math-operation.png)
+
+<img width="1040" height="592" alt="Screenshot 2026-08-12 182140" src="https://github.com/user-attachments/assets/cd8db0c7-3049-4142-afc0-82aab2248617" />
+
+
+
+
+
 
 ### 3️⃣ Combine or Split Array
-![Combine Split Array](https://github.com/your-username/your-repo-name/blob/main/screenshots/combine-split-array.png)
+
+<img width="1039" height="607" alt="Screenshot 2026-08-12 182325" src="https://github.com/user-attachments/assets/5038262c-e0cd-4212-bfeb-3b3fedc6972c" />
+
+
+
+
+
+
 
 ### 4️⃣ Search, Sort, or Filter Array
-![Search Sort Filter](https://github.com/your-username/your-repo-name/blob/main/screenshots/search-sort-filter-array.png)
+
+<img width="1039" height="554" alt="Screenshot 2026-08-12 182639" src="https://github.com/user-attachments/assets/179547c9-9946-47fe-bcc3-998249c70504" />
+
+
+
+
+
 
 ### 5️⃣ Compute Aggregate and Statistics
-![Aggregate Statistics](https://github.com/your-username/your-repo-name/blob/main/screenshots/aggregate-statistics.png)
+
+<img width="1039" height="527" alt="Screenshot 2026-08-12 182835" src="https://github.com/user-attachments/assets/aed8ca07-06a8-451c-8e3a-e74730c2175b" />
+
+
+
+
+
 
 ### 6️⃣ Exit
-![Exit](https://github.com/your-username/your-repo-name/blob/main/screenshots/exit.png)
 
-> 📌 Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
+<img width="1042" height="261" alt="Screenshot 2026-08-12 182946" src="https://github.com/user-attachments/assets/5efbb09e-f941-4c59-af5e-739bdd70a53d" />
+
+
+
+
+
 
 ---
 
@@ -93,7 +134,7 @@
 
 🔗 https://youtu.be/your-video-link
 
-> Replace the above link with your uploaded YouTube video link.
+
 
 ## 🛠️ Technologies Used
 
