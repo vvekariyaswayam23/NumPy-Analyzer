@@ -138,7 +138,12 @@
 
 ▶️ **Watch the full project demo here:**
 
-🔗 https://youtu.be/your-video-link
+
+
+https://github.com/user-attachments/assets/3afcb3aa-a5ce-4685-8789-1b3b7acb6365
+
+
+
 
 
 
